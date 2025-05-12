@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: torch-muon-hybrid
+Version: 0.1.0
+Summary: "Composite optimiser: Muon (≥2-D) + any small-tensor optimiser"
+Home-page: https://github.com/yourname/torch-muon-hybrid
+Author: Your Name
+Author-email: you@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: torch>=2.0
+Dynamic: license-file
